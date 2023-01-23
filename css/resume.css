@@ -106,7 +106,7 @@ section.resume-section {
 
 .bg-primary {
   background-color: #272524 !important;
-  background-image: url("img/codebackground.png"); }
+  background-image: url("img/codebackground.png") !important; }
 
 .text-primary {
   color: #BD5D38 !important; }
