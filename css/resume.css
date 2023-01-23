@@ -105,7 +105,7 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #272524 !important;
+  background-color: #272524;
   background-image: url("img/codebackground.png") !important; }
 
 .text-primary {
