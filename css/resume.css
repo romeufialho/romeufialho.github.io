@@ -105,7 +105,8 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #BD5D38 !important; }
+  /*background-color: #BD5D38 !important;*/
+  background-image: url("img/codebackground.png"); }
 
 .text-primary {
   color: #BD5D38 !important; }
