@@ -119,6 +119,24 @@ a {
 img {
   max-width: 100%;
   max-height: 100%;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+  width: 150px;
+}
+
+.image.fit.thumb{
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+  width: 150px;
+}
+
+article{
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+  width: 150px;
 }
 
 input[type="submit"], input[type="reset"], input[type="button"], .button {
